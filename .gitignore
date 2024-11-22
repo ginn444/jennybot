@@ -1,0 +1,79 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+*$py.class
+# Virtual environment
+venv/
+env/
+.env
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+# Logs and databases
+*.log
+*.sqlite3
+# OS-specific files
+.DS_Store
+Thumbs.db
+# Project-specific
+instance/
+.webassets-cache
+# Dependency management
+pip-log.txt
+pip-delete-this-directory.txt
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+# PyInstaller
+*.manifest
+*.spec
+# Jupyter Notebook
+.ipynb_checkpoints
+# pytest
+.pytest_cache/
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+coverage.xml
+# Translations
+*.mo
+*.pot
+# Flask stuff:
+instance/
+# Scrapy stuff:
+.scrapy
+# Sphinx documentation
+docs/_build/
+# PyBuilder
+target/
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+# mypy
+.mypy_cache/
+# Personal data (important for your project)
+personal_data/
+conversations/
